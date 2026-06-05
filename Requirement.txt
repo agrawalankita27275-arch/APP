@@ -1,8 +1,7 @@
 streamlit
 pandas
-database
-ai_engine
-styles
+databasE
+styleS
 datetime, date, time, timedelta
 csv
 json
